@@ -1,0 +1,11 @@
+OBSERVAÇÕES: 																	
+
+1- As medições de tensão AC são Vba e Vca, pois a fase "a" está no terminal inversor do circuito de condicionamento.
+Um sinal negativo foi adicionado no arquivo main.c na leitura do ADC.
+
+2- As correntes ib_grid e ic_grid estão trocadas no hardware e serão corrigidas 
+   diretamente e unicametne neste arquivo.
+
+3- As correntes do inversor são positivas qdo entram neste, diferentemente das
+   da placa de filtro. Um sinal negativo foi adicionado no arquivo main.c na leitura do ADC.
+   Assim, por FIM, TODAS AS CORRENTES SÃO POSITIVAS SAINDO DO CONVERSOR!

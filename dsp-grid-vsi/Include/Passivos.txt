@@ -1,0 +1,17 @@
+Lb= 4e-005 % Indutor Boost
+Rlb= 0.01 % Resitencia equivalente indutor boost
+LpM= 0.00018 %Indutância própria do MITda motherboard 
+LmM= -0.00017982 %Indutância mútua do MITda motherboard
+RwM= 0.1 %Resistência do enrolamento do MIT da mohterboard
+LpD= 0.00045 %Indutância própria do MITda daughterboard 
+LmD= -0.000449955 %Indutância mútua do MITda daughterboard
+RwD= 0.4 %Resistência do enrolamento do MIT da daughterboard
+Ro= 231.04 %Resistencia equivalente da carga
+% % %
+Lg= 0.00015 %Indutância da rede
+Cx1= 4.7e-007 % Capacitores X do filtro DM
+Cx2= 4.7e-007 % Capacitores X do filtro DM
+Rd= 13 % Resistor de damping
+Cox= 0.00033 %Capacitor do barramento de saída
+ESR= 0.64 %Resistência série equivalente dos capacitores de saída
+  %

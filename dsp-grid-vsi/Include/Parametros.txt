@@ -1,0 +1,15 @@
+Vgp= 311.126983722081 % Tensão de pico da rede
+fg= 60 %Frequencia da rede eletrica
+fsw= 75000 %frequencia de comutação
+fsmp= 75000 %frequencia de amostragem
+wpci= 94247.7796076938 %polo do filtro antialiasing
+Po= 2500 %Potência de saída
+Kpot= 0.3 %fraçaão da potência a ser processada
+Vip= 311.126983722081 %Tensão de pico da rede
+Vo= 760 %
+  %
+  %
+  %
+  %
+  %
+  %

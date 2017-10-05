@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>dsp-grid-vsi</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.ScannerConfigBuilder</name>
+			<triggers>full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.ti.ccstudio.core.ccsNature</nature>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>org.eclipse.cdt.core.ccnature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
+	</natures>
+	<variableList>
+		<variable>
+			<name>INSTALLROOT_2833X_V141</name>
+			<value></value>
+		</variable>
+		<variable>
+			<name>INSTALLROOT_FASTRTS_V100</name>
+			<value>file:/C:/ti/controlSUITE/libs/math/FPUfastRTS/V100</value>
+		</variable>
+		<variable>
+			<name>SRC_ROOT</name>
+			<value>file:/C:/Users/Henrique/Desktop/dsp-inv-inep/dsp-grid-vsi/Source</value>
+		</variable>
+		<variable>
+			<name>XDAIS_CG_ROOT</name>
+			<value>file:/C:/ti/xdais_7_24_00_04/xdais_7_24_00_04</value>
+		</variable>
+	</variableList>
+</projectDescription>
